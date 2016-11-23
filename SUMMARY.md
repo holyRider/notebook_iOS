@@ -7,5 +7,5 @@
    * [九宫格的算法](九宫格的算法.md)
 * [UITableView](uitableview.md)
 * [UI进阶](ui进阶.md)
-* [[父子控制器]](父子控制器.md)
+* [父子控制器](父子控制器.md)
 
